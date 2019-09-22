@@ -1,0 +1,18 @@
+******************************************************************************
+Choose 1 of 358 Summary
+    Highest Adjusted R-Squared Results    
+AdjR2    AICc   JB K(BP)  VIF   SA   Model      
+ 0.46 6934.52 0.00  0.00 1.00 0.00  +AH4HE008***
+ 0.41 7017.92 0.00  0.00 1.00 0.00  +AH4HE001***
+ 0.41 7017.92 0.00  0.00 1.00 0.00  +AH36E003***
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 2 of 358 Summary
+           Highest Adjusted R-Squared Results           
+AdjR2    AICc   JB K(BP)  VIF   SA   Model                    
+ 0.76 6216.93 0.00  0.00 1.32 0.00  -AH36E001***  +AH4HE001***
+ 0.76 6216.93 0.00  0.00 1.32 0.00  -AH36E001***  +AH36E003***
+ 0.76 6217.11 0.00  0.00 1.02 0.00  -AH36E002***  +AH36E003***
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
